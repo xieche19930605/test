@@ -1,0 +1,12 @@
+{
+    "name": "x/com",
+    "type": "librart",
+    "authors": [
+        {
+            "name": "xieche",
+            "email": "xc@hoomi.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
